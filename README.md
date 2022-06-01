@@ -9,11 +9,9 @@
 *SQL
 
 
-- 🔭 I’m currently working on ...Compas.AI  && Compas.Studio
+- 🔭 I’m currently working at ...Compas.AI  && Compas.Studio
  
-- 👯 I’m looking to collaborate on ...open source projects with BTC and VR
-
-- 💬 Ask me about ... Im looking to relocate  to Canada . 
+- 💬 Ask me about ... Im looking to relocate  to Canada , Ontario could be great.
 
 Have a nice day!!! 
 
