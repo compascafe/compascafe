@@ -1,6 +1,6 @@
 ### Hi there 👋, im david,   data analytics engineer in the bussniess since 2015 .
 
-I have a project in www.analytica.tv, i talk about data analytics, apis and resources for footbal .
+I have a project in www.analytica.tv, i talk about data analytics, apis and resources for football .
 
 Some technologies i used and know:
 
