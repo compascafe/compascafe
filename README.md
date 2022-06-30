@@ -5,7 +5,7 @@ I have a project in www.analytica.tv, i talk about data analytics, apis and reso
 Some technologies i used and know:
 
 
-- 🔭 I’m currently working at ...Compas.AI www.compas.ai  && Compas.Studio www.compas.studio
+- 🔭 I’m currently working at ...Compas.AI www.compas.ai  && Compas.Studio www.compas.studio as UI/UX principal engineer
 
 Visit my personal site www.compas.cafe .
 Cheers!
