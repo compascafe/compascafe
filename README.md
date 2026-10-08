@@ -35,7 +35,7 @@ I'm a **Senior Civil Engineer and Systems Engineer**. I combine deep knowledge o
 
 ### 🔄 CI/CD & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=github,githubactions,gitlab,jenkins,argocd,git,bash" />
+  <img src="https://skillicons.dev/icons?i=github,githubactions,gitlab,jenkins,git,bash" />
 </p>
 
 ### 📈 Observability & SRE
