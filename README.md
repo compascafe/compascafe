@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm [YOUR NAME] 👋</h1>
+ <h1 align="center">Hi, I'm David Tello 👋</h1>
 
 <h3 align="center">Civil Engineer & Systems Engineer · SRE · DevOps · BIM Automation</h3>
 
@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://yoursite.com"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Views&color=blue&style=for-the-badge" alt="Profile views">
+  <a href="https://www.linkedin.com/in/compascafe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:david@devopsgarage.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://devopsgarage.com">
 </p>
 
 ---
