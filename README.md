@@ -45,7 +45,7 @@ I'm a **Senior Civil Engineer and Systems Engineer**. I combine deep knowledge o
 
 ### 💻 Languages & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,powershell,go,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,dotnet,powershell,rust,js" />
 </p>
 
 ### 🏗️ BIM & Civil Engineering
@@ -88,12 +88,12 @@ I'm a **Senior Civil Engineer and Systems Engineer**. I combine deep knowledge o
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=compascafe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=compascafe&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=compascafe&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
