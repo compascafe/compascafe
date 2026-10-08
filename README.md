@@ -69,11 +69,15 @@ I'm a **Senior Civil Engineer and Systems Engineer**. I combine deep knowledge o
 | 🏗️ **BIM Automation** | Revit plugins and scripts: model generation, data extraction, validation, and reporting |
 | 🔗 **Integration** | Connecting Revit with APIs, databases, and cloud services (APS / Forge, REST, Power BI) |
 
+
+<!--
 ---
+
+
 
 ## 📂 Featured Projects
 
-> Replace these examples with your real repositories.
+
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -82,6 +86,8 @@ I'm a **Senior Civil Engineer and Systems Engineer**. I combine deep knowledge o
 | [**bim-data-pipeline**](https://github.com/YOUR-USERNAME/bim-data-pipeline) | Pipeline to extract Revit model data and publish it to dashboards | `Python` `APS` `Power BI` |
 | [**k8s-sre-playbooks**](https://github.com/YOUR-USERNAME/k8s-sre-playbooks) | Runbooks, alerts, and dashboards for Kubernetes clusters | `Kubernetes` `Prometheus` `Grafana` |
 | [**terraform-modules**](https://github.com/YOUR-USERNAME/terraform-modules) | Reusable infrastructure-as-code modules | `Terraform` `AWS` `Azure` |
+-->
+
 
 ---
 
